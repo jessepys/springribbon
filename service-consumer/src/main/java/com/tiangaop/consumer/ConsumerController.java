@@ -12,7 +12,7 @@ public class ConsumerController {
     RestTemplate restTemplate;
 
     @RequestMapping("/hi")
-    public String hi(@RequestParam(value="name", defaultValue="Artaban") String name) {
+    public String hi(@RequestParam(value="name", defaultValue="name") String name) {
         String greeting = this.restTemplate.getForObject("http://service-provider/hello", String.class);
         return String.format("%s, %s!", greeting, name);
     }

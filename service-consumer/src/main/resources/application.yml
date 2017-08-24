@@ -9,5 +9,5 @@ service-provider:
   ribbon:
     eureka:
       enabled: false
-    listOfServers: localhost:8090,localhost:9092,localhost:9999
+    listOfServers: localhost:8099,localhost:8098,localhost:8097
     ServerListRefreshInterval: 15000
