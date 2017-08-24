@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-consumer/service-consumer.iml" filepath="$PROJECT_DIR$/.idea/modules/service-consumer/service-consumer.iml" group="service-consumer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-consumer/service-consumer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-consumer/service-consumer_main.iml" group="service-consumer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-consumer/service-consumer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-consumer/service-consumer_test.iml" group="service-consumer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-provider/service-provider.iml" filepath="$PROJECT_DIR$/.idea/modules/service-provider/service-provider.iml" group="service-provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-provider/service-provider_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-provider/service-provider_main.iml" group="service-provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-provider/service-provider_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-provider/service-provider_test.iml" group="service-provider" />
+      <module fileurl="file://$PROJECT_DIR$/spring-loadbalance.iml" filepath="$PROJECT_DIR$/spring-loadbalance.iml" />
+    </modules>
+  </component>
+</project>
